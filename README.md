@@ -1,2 +1,2 @@
-# CSharp-10.Proje
+# C#-10.Proje
 Döngüler2
