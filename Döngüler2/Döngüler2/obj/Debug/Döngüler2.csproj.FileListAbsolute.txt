@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\Döngüler2\Döngüler2\bin\Debug\Döngüler2.exe.config
+C:\Users\mitha\source\repos\Döngüler2\Döngüler2\bin\Debug\Döngüler2.exe
+C:\Users\mitha\source\repos\Döngüler2\Döngüler2\bin\Debug\Döngüler2.pdb
+C:\Users\mitha\source\repos\Döngüler2\Döngüler2\obj\Debug\Döngüler2.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Döngüler2\Döngüler2\obj\Debug\Döngüler2.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Döngüler2\Döngüler2\obj\Debug\Döngüler2.exe
+C:\Users\mitha\source\repos\Döngüler2\Döngüler2\obj\Debug\Döngüler2.pdb
